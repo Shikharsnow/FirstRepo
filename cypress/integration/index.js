@@ -1,7 +1,7 @@
 
 
 describe("All Cases",()=>{
-  const el =['The Shining',"The Avengers","Singham"];
+  const el =['The Shining',"The Avengers","The dark knight"];
  
 
   for(let i=0;i<el.length;i++)
